@@ -1,0 +1,3 @@
+[submodule "ext/cooklang/parser"]
+	path = ext/cooklang/parser
+	url = git@github.com:cooklang/cooklang-c.git
